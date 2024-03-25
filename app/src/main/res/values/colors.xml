@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <!-- Define pastel colors for dark theme -->
+    <color name="tealPastel">#66A5AD</color>
+    <color name="tealDarkPastel">#326273</color>
+    <color name="magentaPastel">#CC5D87</color>
+    <color name="yellowPastel">#FFE156</color>
+
+    <!-- Define a dark background color -->
+    <color name="darkBackground">#121212</color>
+
+    <!-- Define dark colors for dark theme -->
+    <color name="darkTeal">#00555D</color>
+    <color name="darkTealDark">#003738</color>
+    <color name="darkMagenta">#880037</color>
+    <color name="darkYellow">#FFA600</color>
+
+</resources>

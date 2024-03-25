@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Weekly Tasks 2</string>
+    <string name="version_tag">Release Version</string>
+    <string name="weekly_tasks1_new_change">Weekly Tasks1 new change</string>
+</resources>
